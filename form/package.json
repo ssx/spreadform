@@ -4,6 +4,7 @@
   "author": "David Carboni",
   "license": "MIT",
   "dependencies": {
-    "@google-cloud/pubsub": "^1.6.0"
+    "@google-cloud/pubsub": "^1.6.0",
+    "notifications-node-client": "^4.7.2"
   }
 }
