@@ -63,4 +63,4 @@ I've made one compromise on data storage (which you can change in `form/index.js
 
  * Spreadform is serverless (using Google Cloud Functions, Pubsub and Sheets)
  * It's likely to cost you nothing to run on the GCP free tier for several thousand submissions
- * If you're using this in UK Governmont, you can use Gov.uk Notify (see [form/index.js](https://github.com/davidcarboni/spreadform/blob/notify/form/index.js#L62) in the "notify" branch)
+ * If you're using this in UK Government, you can use Gov.uk Notify (see [form/index.js](https://github.com/davidcarboni/spreadform/blob/notify/form/index.js#L62) in the "notify" branch)
